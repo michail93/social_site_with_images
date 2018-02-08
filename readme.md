@@ -1,9 +1,6 @@
 certifi (2017.11.5)
-
 chardet (3.0.4)
-
 coverage (4.4.1)
-
 defusedxml (0.5.0)
 
 Django (1.8)

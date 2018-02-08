@@ -30,13 +30,24 @@ pysolr (3.3.2)
 python-social-auth (0.2.12)
 
 python3-openid (3.1.0)
+
 pytz (2017.2)
+
 redis (2.10.6)
+
 requests (2.18.4)
+
 requests-oauthlib (0.8.0)
+
 setuptools (36.2.7)
+
 six (1.11.0)
+
 sorl-thumbnail (12.3)
+
+
 SQLAlchemy (1.1.14)
+
 urllib3 (1.22)
+
 wheel (0.30.0a0)

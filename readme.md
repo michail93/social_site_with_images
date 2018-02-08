@@ -1,19 +1,34 @@
 certifi (2017.11.5)
+
 chardet (3.0.4)
+
 coverage (4.4.1)
+
 defusedxml (0.5.0)
+
 Django (1.8)
+
 django-haystack (2.4.0)
+
 django-taggit (0.22.1)
+
 idna (2.6)
 Markdown (2.6.9)
+
 oauthlib (2.0.6)
+
 olefile (0.44)
+
 Pillow (4.2.1)
+
 pip (9.0.1)
+
 PyJWT (1.5.3)
+
 pysolr (3.3.2)
+
 python-social-auth (0.2.12)
+
 python3-openid (3.1.0)
 pytz (2017.2)
 redis (2.10.6)

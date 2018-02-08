@@ -13,6 +13,7 @@ django-haystack (2.4.0)
 django-taggit (0.22.1)
 
 idna (2.6)
+
 Markdown (2.6.9)
 
 oauthlib (2.0.6)

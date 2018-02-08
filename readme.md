@@ -1,6 +1,13 @@
+Powered on python3.4
+Used version of redis is 4.0.8
+Following python packages had been installed:
+
 certifi (2017.11.5)
+
 chardet (3.0.4)
+
 coverage (4.4.1)
+
 defusedxml (0.5.0)
 
 Django (1.8)

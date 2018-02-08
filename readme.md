@@ -1,5 +1,7 @@
-Powered on python3.4
-Used version of redis is 4.0.8
+Powered on python3.4.
+
+Used version of redis is 4.0.8.
+
 Following python packages had been installed:
 
 certifi (2017.11.5)
@@ -49,7 +51,6 @@ setuptools (36.2.7)
 six (1.11.0)
 
 sorl-thumbnail (12.3)
-
 
 SQLAlchemy (1.1.14)
 

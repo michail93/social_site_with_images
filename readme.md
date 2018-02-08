@@ -1,3 +1,5 @@
+"bookmarks" folder is folder of project (settings.py, wsgi.py etc.).
+
 Powered on python3.4.
 
 Used version of redis is 4.0.8.
